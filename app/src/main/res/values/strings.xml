@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KeyFrameAnimation</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="animate">animate</string>
 </resources>
